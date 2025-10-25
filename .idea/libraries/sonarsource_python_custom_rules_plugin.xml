@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sonarsource.python.custom.rules.plugin" type="repository">
+    <properties maven-id="org.sonarsource.python:python-custom-rules-plugin:3.3.0.7945" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/python/python-custom-rules-plugin/3.3.0.7945/python-custom-rules-plugin-3.3.0.7945.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
